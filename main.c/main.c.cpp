@@ -3,7 +3,7 @@
 
 #include "stdafx.h"
 
-
+wqrreg
 int main()
 {
     return 0;
